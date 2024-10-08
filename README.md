@@ -1,1 +1,2 @@
 # componentes-de-arquitetura-azure
+-No Lab de Componentes de Arquitetura do Azure, nós aprendemos a como criar um grupo de recursos dentro do Azure, que servirá para gerenciar recursos que serão separados de acordo com a assinatura escolhida, e cabe ao cliente gerenciar as permissões ao acesso dos grupos de recursos para que pessoas não autorizadas acessem recursos da empresa. Tambem aprendemos a criar uma Rede Virtual, que tem como função habilitar muitos tipos de recursos no Azure, dentre eles, os recursos inseridos no seu grupo de recursos criado anteriormente
